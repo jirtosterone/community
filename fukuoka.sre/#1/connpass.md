@@ -32,7 +32,7 @@ LTは1枠につき「発表5分 + Q&A 4分」を目安とします。
 | 19:45 ~ 19:55 | LT2: Amazon SES のメール送信結果判定に苦戦した話 | [hayato3011](https://connpass.com/user/hayato3011/)                                  |
 | 19:55 ~ 20:05 | 休憩                                             |                                                                                      |
 | 20:05 ~ 20:15 | LT3:                                             | [Masahisa_Fukudome](https://connpass.com/user/Masahisa_Fukudome/)                    |
-| 20:15 ~ 20:25 | LT4:                                             | [gr1m0h](https://connpass.com/user/grimoh/)                                          |
+| 20:15 ~ 20:25 | LT4: パッチ更新でterraform initが落ちた日        | [gr1m0h](https://connpass.com/user/grimoh/)                                          |
 | 20:25 ~ 20:30 | クロージング・写真撮影                           |                                                                                      |
 | 20:30 ~ 21:00 | 懇親会（同会場）                                 | 参加希望者                                                                           |
 
@@ -86,9 +86,9 @@ LTは1枠につき「発表5分 + Q&A 4分」を目安とします。
 
 ## 発表概要
 
-タイトル：TBD
+タイトル：パッチ更新でterraform initが落ちた日
 
-概要：TBD
+概要：tfactionのパッチ更新後、設定を変えていないのにterraform initが失敗するようになりました。エラーメッセージからは原因が見えなかったこの事象を調査の流れに沿って振り返ります。依存を更新する時に気をつけたい点も紹介します。
 
 登壇者：[gr1m0h](https://connpass.com/user/grimoh/)
 
